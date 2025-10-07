@@ -1,5 +1,5 @@
 # Nuxt Travel Log
-Full stack travel app
+Full stack travel app ...
 
 ## Setup
 
