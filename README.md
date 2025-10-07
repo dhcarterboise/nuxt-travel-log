@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# nuxt-travel-log
-# nuxt-travel-log
-||||||| (empty tree)
-=======
 # Nuxt Travel Log
 Full stack travel app
 
@@ -40,4 +35,3 @@ Locally preview production build:
 # pnpm
 pnpm preview
 ```
->>>>>>> 0b918d0 (Initial Commit)
