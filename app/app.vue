@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    HELLO
+    HELLO MAIN
   </div>
 </template>
