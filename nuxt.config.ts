@@ -1,6 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import tailwindcss from "@tailwindcss/vite";
-import { defineNuxtConfig } from "nuxt/config";
+
+import "./lib/env";
+
+// This is the first thing that loads
 
 export default defineNuxtConfig({
 	compatibilityDate: "2025-07-15",
