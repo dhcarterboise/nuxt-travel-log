@@ -30,7 +30,7 @@ Build the application for production:
 pnpm build
 ```
 
-Locally preview production build:
+Locally preview production build\_:
 
 ```bash
 # pnpm
