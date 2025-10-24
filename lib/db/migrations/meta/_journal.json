@@ -15,6 +15,41 @@
       "when": 1760652012132,
       "tag": "0001_parallel_madame_web",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1760721907311,
+      "tag": "0002_misty_trish_tilby",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1761254430716,
+      "tag": "0003_sad_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1761255225043,
+      "tag": "0004_green_mongoose",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1761256385924,
+      "tag": "0005_careless_jimmy_woo",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1761256499004,
+      "tag": "0006_milky_human_cannonball",
+      "breakpoints": true
     }
   ]
 }
