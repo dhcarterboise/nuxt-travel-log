@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import AuthButton from "~/components/auth-button.vue";
+</script>
+
 <template>
 	<div class="hero bg-base-200 container mx-auto mt-4">
 		<div class="hero-content text-center min-h-96">
@@ -8,10 +12,7 @@
 				<p class="py-6">
 					Travel Travel Travel
 				</p>
-				<button class="btn btn-accent">
-					Sign In
-					<Icon name="tabler:brand-github" size="large" />
-				</button>
+				<AuthButton />
 			</div>
 		</div>
 	</div>
